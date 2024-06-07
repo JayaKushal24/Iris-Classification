@@ -28,10 +28,13 @@ Support Vector Machine stands out as a robust supervised learning algorithm capa
 
 ## Steps to Classify Iris Flower:
 
-1.Load the Data: Begin by importing the Iris dataset, which contains samples of iris flowers along with their corresponding features.
-2.Analyze and Visualize the Dataset: Conduct a comprehensive analysis of the dataset, exploring its characteristics through visualization techniques to gain insights into the distribution and relationships between different features.
+1.Load the Data: Begin by importing the Iris dataset, which contains samples of iris flowers along with their corresponding features.                 
+2.Analyze and Visualize the Dataset: Conduct a comprehensive analysis of the dataset, exploring its characteristics through visualization techniques to gain insights into the distribution and relationships between different features.       
+
 3.Model Training: Utilize the SVM algorithm to train a classification model on the Iris dataset. SVM learns from the labeled data to discern patterns and establish decision boundaries that distinguish between different classes of iris flowers.
+
 4.Model Evaluation: Assess the performance of the trained model by evaluating its accuracy and other relevant metrics. This step ensures the effectiveness of the model in correctly predicting the species of iris flowers.
+
 5.Testing the Model: Finally, test the model by giving inputs.
 
 [Dataset](https://www.geeksforgeeks.org/iris-dataset/)    
